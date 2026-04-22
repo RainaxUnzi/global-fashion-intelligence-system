@@ -1,17 +1,17 @@
-# Fashion Intel 👗
+# Fashion Intel 
 ### Global Fashion Intelligence System
 
 > An automated Python system that scrapes fashion articles from The Guardian, NYT, and Vogue — cleans the data, detects trends, and delivers a daily HTML email digest with a live web dashboard.
 
 ---
 
-## 🌍 Live Dashboard Preview
+##  Live Dashboard Preview
 
 The dashboard displays global fashion trends across Paris, Milan, New York, and more — with real-time article feeds from 3 major sources.
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Multi-source scraping** — pulls articles from The Guardian API, NYT Top Stories API, and Vogue RSS feed
 - **Smart data cleaning** — removes duplicates, junk titles, and ads automatically
@@ -23,7 +23,7 @@ The dashboard displays global fashion trends across Paris, Milan, New York, and 
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 fashion-intel/
@@ -45,7 +45,7 @@ fashion-intel/
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -61,7 +61,7 @@ fashion-intel/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repo
 ```bash
@@ -106,7 +106,7 @@ Then open `dashboard.html` in your browser.
 
 ---
 
-## 🔑 API Keys Required
+##  API Keys Required
 
 | API | Free Tier | Get Key |
 |-----|-----------|---------|
@@ -116,7 +116,7 @@ Then open `dashboard.html` in your browser.
 
 ---
 
-## 📧 Email Digest Sample
+##  Email Digest Sample
 
 The daily email includes:
 - **Trend Alerts** — articles matching your configured keywords, tagged by category
@@ -125,7 +125,7 @@ The daily email includes:
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 ```
 main.py runs the full pipeline:
@@ -140,7 +140,7 @@ main.py runs the full pipeline:
 
 ---
 
-## 📌 Keywords Configuration
+##  Keywords Configuration
 
 Edit `keywords.json` to customise what trends get flagged:
 
@@ -154,7 +154,7 @@ Edit `keywords.json` to customise what trends get flagged:
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - [ ] Selenium scraping for JavaScript-heavy sites
 - [ ] Trend frequency charts over time
@@ -164,13 +164,13 @@ Edit `keywords.json` to customise what trends get flagged:
 
 ---
 
-## 👤 Author
+##  Author
 
 Built by **Raina Mansoor** as a personal portfolio project (2026).  
 A practical demonstration of Python automation, API integration, data cleaning, and frontend development.
 
 ---
 
-## 📄 License
+##  License
 
 MIT License — free to use and modify.
