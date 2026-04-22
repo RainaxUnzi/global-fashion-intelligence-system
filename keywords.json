@@ -1,0 +1,33 @@
+{
+  "Fashion Weeks": [
+    "paris fashion week",
+    "milan fashion week",
+    "new york fashion week",
+    "london fashion week",
+    "fashion week",
+    "runway",
+    "catwalk"
+  ],
+  "Brands": [
+    "zara",
+    "gucci",
+    "h&m",
+    "prada",
+    "chanel",
+    "louis vuitton",
+    "dior",
+    "versace",
+    "armani",
+    "balenciaga"
+  ],
+  "Topics": [
+    "sustainability",
+    "sustainable fashion",
+    "streetwear",
+    "luxury",
+    "vintage",
+    "upcycling",
+    "fast fashion",
+    "eco friendly"
+  ]
+}
