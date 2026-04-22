@@ -10,6 +10,9 @@
 The dashboard displays global fashion trends across Paris, Milan, New York, and more — with real-time article feeds from 3 major sources.
 
 ---
+<img width="1915" height="1018" alt="image" src="https://github.com/user-attachments/assets/e6c53c91-2b86-4072-9332-47a3b78219e6" />
+<img width="1907" height="1037" alt="image" src="https://github.com/user-attachments/assets/2208d1e6-316a-45c9-ac78-e1e32c7e2844" />
+
 
 ##  Features
 
@@ -174,3 +177,5 @@ A practical demonstration of Python automation, API integration, data cleaning, 
 ##  License
 
 MIT License — free to use and modify.
+
+
